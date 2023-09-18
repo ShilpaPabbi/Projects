@@ -29,3 +29,15 @@ Three tables are provided for this project:
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
+**Summary of Findings**
+- Customer A has the highest spending amount of $76.
+- The most purchased item is ramen that was bought 8 times.
+- Customer A and B spent $25 and $40 respectively before they became a member.
+- Customer C was never a member but purchased items of $35.
+
+**Tools used**
+SQLite online browser
+
+   
+
+
