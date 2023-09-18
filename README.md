@@ -1,8 +1,19 @@
-# 8 Week SQL Challenge- Data with Danny
+**Week 1 Challenge - Danny's Diner**
+
+**Introduction**
+This is a Week 1 task of 8 Weeks SQL Challenge Data with Danny
+
+Danny’s Diner is a restaurant business that sell Japanese food and who want to use his business data to help make data-driven decisions for the business.
 
 **Business Task**
 
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
+
+**Datasets**
+Three tables are provided for this project:
+1. Sales: the sales table shows all products (product_id) placed on partiular dates (order_date) by particualr customer (customer_id).
+2. Menu: The menu table has all product names (product_name) correspondng to their product_id and prices (price) for each item.
+3. Members: The members table contains the information when a particular customer (customer_id) becomes a member (join_date) of teh Danny's Diner loyalty program.
 
 
 **Case Study Questions**
